@@ -1,0 +1,8 @@
+Python 3.8+
+PyTorch 1.10+
+PyTorch Lightning
+torchvision
+tqdm
+numpy
+Pillow
+pyyaml
